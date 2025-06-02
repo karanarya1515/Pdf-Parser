@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 📄 PDF Question Answering System using Mistral (Ollama)
 
@@ -93,3 +94,6 @@ Answer:
 - Add web UI (Streamlit or Gradio)
 - Multi-file PDF support
 - Save conversation history
+=======
+# Pdf-Parser
+>>>>>>> d4e151096fdaf83784f511340f735448272cbc2b

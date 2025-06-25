@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # 📄 PDF Question Answering System using Mistral (Ollama)
 
